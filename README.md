@@ -1,5 +1,4 @@
 # leccion-12
-# leccion-12
 _git config --global user.name   //este comando nos permite configurar nuestra consola git bush con el usuario, registrado en github
 
 _git config --global user.email   //este comando nos permite configurar nuestra consola git bush con el email, registrado en github
